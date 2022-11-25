@@ -1,0 +1,22 @@
+.dateItem {
+    align-content: space-between;
+    font-weight: 600;
+    color: white;
+    background-color: #404040;
+    border: 3px solid white;
+    padding: 2%;
+    width: 10%;
+}
+
+.monthCss {
+    font-size: 70%;
+}
+
+.dayCss {
+    font-size: 130%;
+    font-weight: 900;
+}
+
+.yearCss {
+    font-size: 80%;
+}
