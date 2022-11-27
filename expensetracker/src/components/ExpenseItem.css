@@ -9,6 +9,7 @@
 }
 
 .price {
+    border: 3px solid white;
     font-weight: 800;
     color: white;
     justify-content: space-evenly;

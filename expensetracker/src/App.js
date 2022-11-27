@@ -1,11 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
 import ExpenseList from './components/ExpenseList';
+import AddExpense from './components/AddExpense';
 
 function App() {
   return (
     <div>
-     <ExpenseList />
+      <AddExpense />
+      <ExpenseList />
     </div>
   );
 }
